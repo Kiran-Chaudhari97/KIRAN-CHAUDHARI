@@ -6,7 +6,7 @@ Software development is my profession
 # I'm a Software Engineer.
 - 🔭 I’m currently working on software development
 - 🌱 I’m currently learning web development (NodeJS, ReactJS and Angular).
-- 💬 I’m looking for Opportunity Java, Spring boot, Spring MVC, and SQL.
+- 💬 I’m looking for Opportunity SQL and PLSQL.
 - 📫 How to Contact me: chaudharikiran1997@gmail.com
 <!--
 **Kiran-Chaudhari97/Kiran-Chaudhari97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
